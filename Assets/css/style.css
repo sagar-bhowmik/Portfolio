@@ -1,0 +1,57 @@
+.navbar-brand b{
+    color: #dc3545;
+}
+.header_text{
+    font-family: Heebo;
+    margin-top: 15%;
+    font-size: 44px;
+    font-style: Bold;
+}
+.into{
+    font-size: 16px;
+    font-family:Heebo;
+
+}
+.font i{
+    height: 20px;
+    width: 20px;
+}
+.recent{
+    margin-top: 10%;
+}
+.second{
+    background-color: #EDF7FA;
+    height: 420px;
+}
+
+.third{
+    margin-top: 5%;
+    height: 90%;
+    width: 80%;
+}
+.image img{
+    margin-top: 20%;
+    height: 180px;
+    width: 246px;
+}
+.design{
+    margin-top: 6%;
+}
+.into2{
+    font-family: Heebo;
+    font-size: 16px;
+}
+
+.icon{
+    text-align: center;
+    font-size: 20px;
+   
+}
+.icon i{
+    text-align: center;
+    font-size: 20px;
+    padding-left: 15px;
+}
+#footer p{
+    text-align: center;
+}
